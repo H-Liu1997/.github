@@ -1,4 +1,4 @@
-回答 #<issue>
+Closes #<issue>
 
 **改了什么**
 <一句话：和 baseline 唯一的差别>
